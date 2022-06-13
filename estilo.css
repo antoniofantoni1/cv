@@ -1,0 +1,53 @@
+
+* {
+font-size: 40px;
+}
+body {
+   
+    margin-left: 50px;
+    
+}
+
+h1 {
+    font-size: 45px;
+}
+
+
+li {
+    font-size: 45px;
+}
+
+.table {
+    border-radius: 3px;
+}
+
+
+  th {
+  
+    font-size: 45px;
+  }
+
+
+  td{
+     
+      text-align: left;
+      font-size: 45px;
+      padding: 5px;
+      margin: 5px;
+  }
+  
+  
+
+  #p1,#p2, #nome{
+    border-color: transparent;
+    text-align: left;
+  }
+
+  img, #tdimg {
+      border-radius: 200px;
+      border-color: transparent;
+      width:  250px;
+      height: 250px;
+  }
+
+ 
